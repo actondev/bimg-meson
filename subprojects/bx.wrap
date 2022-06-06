@@ -1,0 +1,7 @@
+[wrap-git]
+ url = https://github.com/actondev/bx-meson.git
+ # <2022-06-06 Mon>
+ revision = 4bac3d0b78c78773d0d84758924964808a8c089b
+
+[provide]
+ bx = bx_dep
